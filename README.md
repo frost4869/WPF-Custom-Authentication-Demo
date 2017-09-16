@@ -8,8 +8,9 @@ Support Authentication and Authorization.
   - Username: Mark - Password: Mark (Admin)
   - Username: John - Password: John (Normal User)
   
-Admin can gain access to both secret view and admin view
-Normal User can only gain access to secret view
+Admin can gain access to both secret view and admin view.
+
+Normal User can only gain access to secret view.
 
 Based on artical: https://social.technet.microsoft.com/wiki/contents/articles/25726.wpf-implementing-custom-authentication-and-authorization.aspx
 
